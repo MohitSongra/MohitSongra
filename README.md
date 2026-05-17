@@ -200,20 +200,11 @@
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=9b8cf1&height=2&section=header" width="100%"/>
 
-### Contribution Game
+### Pac-Man Contribution Graph
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🐍 Code Snake</h3>
-      <img src="https://raw.githubusercontent.com/MohitSongra/MohitSongra/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">👾 Pac-Man Contributions</h3>
-      <img src="https://raw.githubusercontent.com/MohitSongra/MohitSongra/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contributions" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohitSongra/MohitSongra/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contributions" width="100%"/>
+</p>
 
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=9b8cf1&height=2&section=header" width="100%"/>
@@ -226,6 +217,15 @@
   </a>
   <a href="mailto:mohitsongra918@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MohitSongra/mohit-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-E8A87C?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/MohitSongra/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.kaggle.com/mohitsongra" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
   <a href="https://github.com/MohitSongra" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
