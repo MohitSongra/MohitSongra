@@ -1,7 +1,7 @@
 # 🔮 Mohit Singh Songra | GitHub Profile
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=9b8cf1&customColorEnd=ff8fb3&height=180&section=header&text=Mohit%20Singh%20Songra&fontSize=42&desc=Full-Stack%20%26%20Applied%20ML%20Developer&descAlignY=62&descAlign=50&fontColor=060807" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=9b8cf1&customColorEnd=ff8fb3&height=180&section=header&text=Mohit%20Singh%20Songra&fontSize=42&desc=Full-Stack%20and%20Applied%20ML%20Developer&descAlignY=62&descAlign=50&fontColor=060807" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
       <p>🛠️ <b>Current Focus:</b> Deep-diving into vector databases (FAISS, CLIP), productionizing ML models (FastAPI, Docker), orchestrating agentic workflows (LangGraph), and refining software architectures.</p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitSongra&repo=medicheck&theme=tokyonight&bg_color=060807&title_color=9b8cf1&text_color=b8c7c0&icon_color=ff8fb3&hide_border=true" width="100%" alt="MediCheck Pin" />
+      <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=MohitSongra&repo=medicheck&theme=tokyonight&bg_color=060807&title_color=9b8cf1&text_color=b8c7c0&icon_color=ff8fb3&hide_border=true" width="100%" alt="MediCheck Pin" />
     </td>
   </tr>
 </table>
@@ -149,12 +149,12 @@
       <img src="https://streak-stats.demolab.com?user=MohitSongra&theme=gruvbox-duotone&hide_border=true&background=060807&ring=9b8cf1&fire=ff8fb3&currStreakNum=ffd166&sideNums=b8c7c0&sideLabels=71817a&dates=b8c7c0" width="100%" alt="GitHub Streak" />
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitSongra&layout=compact&theme=tokyonight&hide_border=true&bg_color=060807&title_color=9b8cf1&text_color=b8c7c0&icon_color=ff8fb3" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MohitSongra&layout=compact&theme=tokyonight&hide_border=true&bg_color=060807&title_color=9b8cf1&text_color=b8c7c0&icon_color=ff8fb3" width="100%" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=MohitSongra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060807&title_color=9b8cf1&text_color=b8c7c0&icon_color=ff8fb3" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-salesp07.vercel.app/api?username=MohitSongra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060807&title_color=9b8cf1&text_color=b8c7c0&icon_color=ff8fb3" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
