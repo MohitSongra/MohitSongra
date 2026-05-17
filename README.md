@@ -161,9 +161,19 @@
 
 ## 🕹️ Contribution Game
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MohitSongra/MohitSongra/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🐍 Code Snake</h3>
+      <img src="https://raw.githubusercontent.com/MohitSongra/MohitSongra/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧊 3D Block Calendar</h3>
+      <img src="https://raw.githubusercontent.com/MohitSongra/MohitSongra/output/isometric.svg" alt="3D Isometric Calendar" width="100%" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
