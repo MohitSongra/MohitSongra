@@ -15,7 +15,6 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: output
-          token: ${{ secrets.METRICS_TOKEN }}
 
       - uses: lowlighter/metrics@latest
         with:
