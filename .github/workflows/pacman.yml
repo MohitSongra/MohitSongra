@@ -12,10 +12,11 @@ jobs:
   build:
     permissions:
       contents: write
-    runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Generate Pac-Man SVG
         uses: AndreRuperto/svg-pacman-contributions@main
