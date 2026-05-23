@@ -13,7 +13,7 @@
   <a href="https://github.com/MohitSongra">
     <img src="https://komarev.com/ghpvc/?username=MohitSongra&label=Profile%20Views&color=9b8cf1&style=flat-square" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/MohitSongra/mohit-portfolio">
+  <a href="https://mohitcodes.me">
     <img src="https://img.shields.io/badge/Portfolio-Live-ff8fb3?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -42,12 +42,12 @@
 <h4 align="center">⭐ Featured Open Source</h4>
 
 <p align="center">
-  <a href="https://github.com/MohitSongra/medicheck">
-    <img src="https://img.shields.io/badge/📦_medicheck-Bayesian_Symptom_Checker-9b8cf1?style=for-the-badge&logo=github&logoColor=black"/>
+  <a href="https://github.com/MohitSongra/Hybrid-healthcarepolicy-ai">
+    <img src="https://img.shields.io/badge/📦_Hybrid--healthcarepolicy--ai-AI_Healthcare_Policy-9b8cf1?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
 <p align="center">
-  <i>🔗 Bayesian ML-powered symptom checker with explainable probabilistic signals — <strong>star it if it helps!</strong> ⭐</i>
+  <i>🔗 Hybrid AI-powered healthcare policy system — <strong>star it if it helps!</strong> ⭐</i>
 </p>
 
 <br/>
@@ -227,7 +227,7 @@
   <a href="mailto:mohitsongra918@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/MohitSongra/mohit-portfolio" target="_blank">
+  <a href="https://mohitcodes.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-E8A87C?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/MohitSongra/" target="_blank">
