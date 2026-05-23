@@ -1,4 +1,4 @@
-name: Generate Isometric
+name: Generate Contribution Graphs
 
 on:
   schedule:
@@ -19,6 +19,14 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Generate Pac-Man SVG
+        uses: AndreRuperto/svg-pacman-contributions@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          theme: github-dark
+          output_directory: dist
+
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
@@ -31,7 +39,11 @@ jobs:
           git config user.email github-actions@github.com
           git fetch origin output
           git checkout output
-          cp profile-3d-contrib/profile-night-green.svg isometric.svg
-          git add isometric.svg
-          git commit -m "Update isometric graph to dark version" || exit 0
+          
+          # Copy generated files to the root of output branch
+          cp dist/pacman-contribution-graph-dark.svg . || true
+          cp profile-3d-contrib/profile-night-green.svg isometric.svg || true
+          
+          git add pacman-contribution-graph-dark.svg isometric.svg
+          git commit -m "chore: update contribution graphs" || exit 0
           git push
